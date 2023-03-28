@@ -1,7 +1,6 @@
 # ABM
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7271552.svg)](https://doi.org/10.5281/zenodo.7271552)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7271552.svg)](https://doi.org/10.1016/j.euroecorev.2022.104306)
 
 This readme file contains an overview of the folders with the datasets and programs used to run the models in the article "Economic forecasting with an agent-based model" (Poledna et al. 2023). The programs are written in MATLAB, and data is stored as binary MATLAB files ( `-MAT` files). In the spirit of Dynare, the model is implemented almost as it is described in the manuscript. Thus, the Online Appendix of the article with the full description of the model also documents the implementation. In particular, the function abm.m implements the model with an almost one-to-one correspondence with the formal description and the syntax in the Online Appendix A.
 
